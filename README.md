@@ -6,5 +6,3 @@ This version helps you manually annotate a bounding box and 5 points: left eye c
 leftmost mouth point, rightmost mouth point. 
 You can run the script for a single image or multiple images in a directory. Points are output to stdout in csv format,
 but you will probably want to redirect it to a file.
-
-Check `annotate-faces.py` for more information.
